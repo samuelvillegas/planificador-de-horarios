@@ -1,0 +1,52 @@
+﻿-Hacer index
+-Vista de docente
+-Habilitar imprimir horario
+
+
+-Ver materias
+-Modificar materias
+-eliminar usuarios
+-validar receso
+Base de datos
+
+-Añadir tabla sin relacions de actividades
+admin y docente
+
+NOTAS
+
+Para hacer un horario necesito:
+- Ingresar los perfiles y departamentos que les compete realizar el horario
+- Ingresar las personas que pueden acceder al constructor
+- Escoger los grados que quiero tener disponibles
+- Hacer las secciones de ese grado
+- Ingresar las materias disponibles para cada grado
+- Ingresar los docentes para cada materia
+- Ingresar las aulas que posee la escuela
+
+
+Docentes:
+	- Ver materias
+	- Ver horarios
+	- Ver Docentes
+		- Modificar sus datos
+	- Index:
+		- Modificaciones en sus horarios
+		- Cantidad de horas
+		- Lista de horarios
+		- Sus datos
+	- Ayuda y documentación
+
+El primer administrador será creado directo desde la base de datos
+
+Inicio: 
+	-Datos de la escuela, link a modififcar
+
+ERRORES:
+
+No aparecen todos los perfiles al ver los detalles del usuario
+
+=g8&c2v+(}R$
+
+todomark_lyon
+
+todomark_constructor_horarios

@@ -1,0 +1,84 @@
+[27-Nov-2017 18:06:14 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/todomark/public_html/proyectomas/app/usuarios.php on line 133
+[27-Nov-2017 18:06:14 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/todomark/public_html/proyectomas/app/usuarios.php on line 133
+[27-Nov-2017 18:06:14 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/todomark/public_html/proyectomas/app/escuela.php on line 124
+[27-Nov-2017 18:06:14 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/todomark/public_html/proyectomas/app/escuela.php on line 124
+[27-Nov-2017 18:06:14 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/todomark/public_html/proyectomas/app/escuela.php on line 124
+[27-Nov-2017 18:06:14 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/todomark/public_html/proyectomas/app/escuela.php on line 124
+[27-Nov-2017 18:06:14 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/todomark/public_html/proyectomas/app/escuela.php on line 124
+[27-Nov-2017 18:06:14 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/todomark/public_html/proyectomas/app/escuela.php on line 114
+[27-Nov-2017 18:06:14 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/todomark/public_html/proyectomas/index.php on line 96
+[27-Nov-2017 18:08:21 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/todomark/public_html/proyectomas/app/usuarios.php on line 133
+[27-Nov-2017 18:08:21 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/todomark/public_html/proyectomas/app/usuarios.php on line 133
+[27-Nov-2017 18:08:21 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/todomark/public_html/proyectomas/app/escuela.php on line 124
+[27-Nov-2017 18:08:21 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/todomark/public_html/proyectomas/app/escuela.php on line 124
+[27-Nov-2017 18:08:21 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/todomark/public_html/proyectomas/app/escuela.php on line 124
+[27-Nov-2017 18:08:21 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/todomark/public_html/proyectomas/app/escuela.php on line 124
+[27-Nov-2017 18:08:21 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/todomark/public_html/proyectomas/app/escuela.php on line 124
+[27-Nov-2017 18:08:21 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/todomark/public_html/proyectomas/app/escuela.php on line 114
+[27-Nov-2017 18:08:21 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/todomark/public_html/proyectomas/index.php on line 96
+[27-Nov-2017 18:08:25 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/todomark/public_html/proyectomas/app/usuarios.php on line 133
+[27-Nov-2017 18:08:25 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/todomark/public_html/proyectomas/app/usuarios.php on line 133
+[27-Nov-2017 18:08:25 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/todomark/public_html/proyectomas/app/escuela.php on line 124
+[27-Nov-2017 18:08:25 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/todomark/public_html/proyectomas/app/escuela.php on line 124
+[27-Nov-2017 18:08:25 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/todomark/public_html/proyectomas/app/escuela.php on line 124
+[27-Nov-2017 18:08:25 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/todomark/public_html/proyectomas/app/escuela.php on line 124
+[27-Nov-2017 18:08:25 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/todomark/public_html/proyectomas/app/escuela.php on line 124
+[27-Nov-2017 18:08:25 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/todomark/public_html/proyectomas/app/escuela.php on line 114
+[27-Nov-2017 18:08:25 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/todomark/public_html/proyectomas/index.php on line 96
+[27-Nov-2017 18:22:14 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/todomark/public_html/proyectomas/app/usuarios.php on line 133
+[27-Nov-2017 18:22:14 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/todomark/public_html/proyectomas/app/usuarios.php on line 133
+[27-Nov-2017 18:22:14 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/todomark/public_html/proyectomas/app/escuela.php on line 124
+[27-Nov-2017 18:22:14 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/todomark/public_html/proyectomas/app/escuela.php on line 124
+[27-Nov-2017 18:22:14 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/todomark/public_html/proyectomas/app/escuela.php on line 124
+[27-Nov-2017 18:22:14 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/todomark/public_html/proyectomas/app/escuela.php on line 124
+[27-Nov-2017 18:22:14 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/todomark/public_html/proyectomas/app/escuela.php on line 124
+[27-Nov-2017 18:22:14 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/todomark/public_html/proyectomas/app/escuela.php on line 114
+[27-Nov-2017 18:22:14 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/todomark/public_html/proyectomas/index.php on line 96
+[27-Nov-2017 18:49:22 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/todomark/public_html/proyectomas/app/usuarios.php on line 133
+[27-Nov-2017 18:49:22 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/todomark/public_html/proyectomas/app/usuarios.php on line 133
+[27-Nov-2017 18:49:22 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/todomark/public_html/proyectomas/app/escuela.php on line 124
+[27-Nov-2017 18:49:22 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/todomark/public_html/proyectomas/app/escuela.php on line 124
+[27-Nov-2017 18:49:22 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/todomark/public_html/proyectomas/app/escuela.php on line 124
+[27-Nov-2017 18:49:22 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/todomark/public_html/proyectomas/app/escuela.php on line 124
+[27-Nov-2017 18:49:22 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/todomark/public_html/proyectomas/app/escuela.php on line 124
+[27-Nov-2017 18:49:22 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/todomark/public_html/proyectomas/app/escuela.php on line 114
+[27-Nov-2017 18:49:22 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/todomark/public_html/proyectomas/index.php on line 96
+[27-Nov-2017 18:49:28 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/todomark/public_html/proyectomas/index.php on line 96
+[27-Nov-2017 18:49:55 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/todomark/public_html/proyectomas/index.php on line 96
+[27-Nov-2017 18:50:15 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/todomark/public_html/proyectomas/app/usuarios.php on line 133
+[27-Nov-2017 18:50:15 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/todomark/public_html/proyectomas/app/usuarios.php on line 133
+[27-Nov-2017 18:50:15 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/todomark/public_html/proyectomas/app/escuela.php on line 124
+[27-Nov-2017 18:50:15 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/todomark/public_html/proyectomas/app/escuela.php on line 124
+[27-Nov-2017 18:50:15 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/todomark/public_html/proyectomas/app/escuela.php on line 124
+[27-Nov-2017 18:50:15 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/todomark/public_html/proyectomas/app/escuela.php on line 124
+[27-Nov-2017 18:50:15 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/todomark/public_html/proyectomas/app/escuela.php on line 124
+[27-Nov-2017 18:50:15 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/todomark/public_html/proyectomas/app/escuela.php on line 114
+[27-Nov-2017 18:50:15 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/todomark/public_html/proyectomas/index.php on line 96
+[27-Nov-2017 18:52:09 America/New_York] PHP Warning:  Missing argument 2 for Materias::actualizarMateria(), called in /home/todomark/public_html/proyectomas/materias-registrar.php on line 19 and defined in /home/todomark/public_html/proyectomas/app/materias.php on line 49
+[27-Nov-2017 18:52:14 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/todomark/public_html/proyectomas/app/usuarios.php on line 133
+[27-Nov-2017 18:52:14 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/todomark/public_html/proyectomas/app/usuarios.php on line 133
+[27-Nov-2017 18:52:14 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/todomark/public_html/proyectomas/app/escuela.php on line 124
+[27-Nov-2017 18:52:14 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/todomark/public_html/proyectomas/app/escuela.php on line 124
+[27-Nov-2017 18:52:14 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/todomark/public_html/proyectomas/app/escuela.php on line 124
+[27-Nov-2017 18:52:14 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/todomark/public_html/proyectomas/app/escuela.php on line 124
+[27-Nov-2017 18:52:14 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/todomark/public_html/proyectomas/app/escuela.php on line 124
+[27-Nov-2017 18:52:14 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/todomark/public_html/proyectomas/app/escuela.php on line 114
+[27-Nov-2017 18:52:14 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/todomark/public_html/proyectomas/index.php on line 96
+[27-Nov-2017 18:52:44 America/New_York] PHP Warning:  Missing argument 2 for Materias::actualizarMateria(), called in /home/todomark/public_html/proyectomas/materias-registrar.php on line 19 and defined in /home/todomark/public_html/proyectomas/app/materias.php on line 49
+[27-Nov-2017 18:58:35 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/todomark/public_html/proyectomas/app/usuarios.php on line 133
+[27-Nov-2017 18:58:35 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/todomark/public_html/proyectomas/app/usuarios.php on line 133
+[27-Nov-2017 18:58:35 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/todomark/public_html/proyectomas/app/escuela.php on line 124
+[27-Nov-2017 18:58:35 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/todomark/public_html/proyectomas/app/escuela.php on line 124
+[27-Nov-2017 18:58:35 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/todomark/public_html/proyectomas/app/escuela.php on line 124
+[27-Nov-2017 18:58:35 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/todomark/public_html/proyectomas/app/escuela.php on line 124
+[27-Nov-2017 18:58:35 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/todomark/public_html/proyectomas/app/escuela.php on line 124
+[27-Nov-2017 18:58:35 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/todomark/public_html/proyectomas/app/escuela.php on line 114
+[27-Nov-2017 18:58:35 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/todomark/public_html/proyectomas/index.php on line 96
+[27-Nov-2017 19:01:21 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/todomark/public_html/proyectomas/horarios-lista.php:1) in /home/todomark/public_html/proyectomas/control_salir.php on line 2
+[27-Nov-2017 19:21:02 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/todomark/public_html/proyectomas/horarios-lista.php:1) in /home/todomark/public_html/proyectomas/control_salir.php on line 2
+[27-Nov-2017 19:31:22 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/todomark/public_html/proyectomas/horarios-lista.php:1) in /home/todomark/public_html/proyectomas/control_salir.php on line 2
+[09-Dec-2017 11:28:10 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/todomark/public_html/proyectomas/horarios-lista.php:1) in /home/todomark/public_html/proyectomas/control_salir.php on line 2
+[09-Dec-2017 11:30:10 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/todomark/public_html/proyectomas/horarios-lista.php:1) in /home/todomark/public_html/proyectomas/control_salir.php on line 2
+[22-Dec-2017 13:40:42 America/New_York] PHP Fatal error:  Class 'Escuela' not found in /home/todomark/public_html/proyectomas/test.php on line 11
+[09-Jan-2018 19:07:18 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/todomark/public_html/proyectomas/horarios-lista.php:1) in /home/todomark/public_html/proyectomas/control_salir.php on line 2
+[26-Jan-2018 17:29:45 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/todomark/public_html/proyectomas/horarios-lista.php:1) in /home/todomark/public_html/proyectomas/control_salir.php on line 2

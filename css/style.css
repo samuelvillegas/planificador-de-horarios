@@ -1,0 +1,129 @@
+
+
+.comma-space span:after{
+	content: ", ";
+}
+.comma-space span:last-child:after{
+	content: ".";
+}
+.display-inline-block{
+    display: inline-block;
+}
+.centrar-vertical{
+	display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: flex-end
+}
+
+.user-progress-small .progress.taller{
+	    margin-top: 0px;
+    	height: 20px;
+	}
+
+.filename{
+	border: none;
+	outline: none;
+	
+}
+.switch-button input[type="checkbox"]:checked + span label:before{
+	content: "S\00cd";
+}
+.switch-button label:before{
+	content: "NO";
+}
+.table-lighter{
+    table-layout: fixed;
+}
+.table-lighter tbody > tr > td{
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.bigger-text{
+	font-size: 1.8rem;
+}
+
+/**  Constructor **/
+.panel-border-color-bottom{
+	border-bottom: 3px solid #c9c9c9;
+	margin-bottom: 	20px;
+}
+
+.panel-border-color-bottom.panel-border-color-danger{
+	border-bottom-color: #ea4335;
+}
+/**  Constructor **/
+
+.panel-padding, .panel-body.panel-padding{
+	padding: 15px 0;
+}
+
+.no-result{
+	display: none;
+}
+
+@media screen and (min-width: 1200px){
+	.modal-body{
+		max-height: 80vh;
+		overflow-y: scroll;
+	}
+
+	
+}
+
+@media screen and (max-width: 720px){
+	
+
+	.centrar-vertical{
+		display: block;
+	}
+}
+
+.no-margin-top{
+	margin-top: 0 !important;
+}
+.spin {
+    -webkit-animation-name: spin;
+    -webkit-animation-duration: 4000ms;
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-timing-function: linear;
+    -moz-animation-name: spin;
+    -moz-animation-duration: 4000ms;
+    -moz-animation-iteration-count: infinite;
+    -moz-animation-timing-function: linear;
+    -ms-animation-name: spin;
+    -ms-animation-duration: 4000ms;
+    -ms-animation-iteration-count: infinite;
+    -ms-animation-timing-function: linear;
+    
+    animation-name: spin;
+    animation-duration: 4000ms;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+
+@-ms-keyframes spin {
+    from { -ms-transform: rotate(0deg); }
+    to { -ms-transform: rotate(360deg); }
+}
+@-moz-keyframes spin {
+    from { -moz-transform: rotate(0deg); }
+    to { -moz-transform: rotate(360deg); }
+}
+@-webkit-keyframes spin {
+    from { -webkit-transform: rotate(0deg); }
+    to { -webkit-transform: rotate(360deg); }
+}
+@keyframes spin {
+    from {
+        transform:rotate(0deg);
+    }
+    to {
+        transform:rotate(360deg);
+    }
+}
+.user-avatar{
+    max-width: 75px;
+}
+
